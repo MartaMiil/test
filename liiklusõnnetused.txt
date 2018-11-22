@@ -1,0 +1,5 @@
+Harju maakond,677
+Hiiu maakond,7
+Ida-Viru maakond,106
+Jõgeva maakond,35
+Järva maakond,28
